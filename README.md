@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1> Hello ,  Dreaming of being a Data analyst </h1>
+<h1> Hello! ,  I'm dreaming of becoming a data analyst. </h1>
 <hr>
+<h3> my name is Yong gyu, LEE ..</h3>ㅡ
+<p></p>
+<p></p>
+<h2> Things I code with </h2>
+(https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python)
