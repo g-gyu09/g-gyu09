@@ -20,4 +20,7 @@ Here are some ideas to get you started:
 <p></p>
 <p></p>
 <h2> Things I code with </h2>
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=green"/>
+![Rust](https://img.shields.io/badge/rust-black.svg?logo=rust&logoColor=white&style=for-the-badge)
+
+![Python](https://img.shields.io/badge/python-#3776AB.svg?logo=python&logoColor=white&style=for-the-badge)
