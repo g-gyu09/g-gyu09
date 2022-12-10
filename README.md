@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=green"/>
 ![Rust](https://img.shields.io/badge/rust-black.svg?logo=rust&logoColor=white&style=for-the-badge)
 
-![Python](https://img.shields.io/badge/-Python-#3776AB?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/-Python-#3776AB?style=for-the-badge&logo=python?logoColor=violet)
