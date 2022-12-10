@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p></p>
 <p></p>
 <h2> Things I code with </h2>
-![Python](https://img.shields.io/badge/Python-red.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
