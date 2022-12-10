@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 </p>
 ![Rust](https://img.shields.io/badge/rust-black.svg?logo=rust&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-#4479A1.svg?logo=MySQL&logoColor=white&style=for-thebadge)
+
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
