@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3> my name is Yong gyu, LEE ..</h3>ㅡ
 <p></p>
 <p></p>
-<h2> Things I code with </h2>
+<h2 align="center"> Things I code with </h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
