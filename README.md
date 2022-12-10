@@ -21,3 +21,13 @@ Here are some ideas to get you started:
 <p></p>
 <h2> Things I code with </h2>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![R](https://img.shield.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=black)
+![Linux](https://img.shield.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+</p>
+?style=for-the-badge&logo=appveyor
+
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
