@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 ![Rust](https://img.shields.io/badge/rust-black.svg?logo=rust&logoColor=white&style=for-the-badge)
 
 ![Python](https://img.shields.io/badge/-Python-#3776AB?style=for-the-badge&logo=python?logoColor=violet)
+![MySQL](https://img.shields.io/badge/-MySQL-#4479A1?style=for-the-badge&logo=?MySQL?logoColor=white)
