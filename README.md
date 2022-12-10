@@ -31,6 +31,6 @@
 <br>
 <div align="center" style="clear:both">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-gyu09&layout=compact&theme=merko">
-    <img src="https://github-readme-stats.vercel.app/api?username=g-gyu09&show_icons=true&theme=merko&card_width=300">
+    <img src="https://github-readme-stats.vercel.app/api?username=g-gyu09&show_icons=true&theme=merko&card_width=400">
 </div>
 
