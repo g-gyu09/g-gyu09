@@ -1,4 +1,5 @@
-### Hi there 👋<img style="float:right" width="200" alt="스크린샷 2022-12-10 오후 6 29 41" src="https://user-images.githubusercontent.com/101245720/206843410-29ed8987-4b3c-4128-ad5f-f398bb19a18c.png">
+<div>### Hi there 👋<img style="float:right" width="100" alt="스크린샷 2022-12-10 오후 6 29 41" src="https://user-images.githubusercontent.com/101245720/206843410-29ed8987-4b3c-4128-ad5f-f398bb19a18c.png">
+    </div>
 <!--
 **g-gyu09/g-gyu09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +19,8 @@ Here are some ideas to get you started:
 <h1 align="center"> Hello! ,  I'm dreaming of becoming a data analyst. </h1>
 <hr>
 <h3 align="center"> my name is Yong gyu, LEE .. </h3>ㅡ
-![이용규_증명사진](https://user-images.githubusercontent.com/101245720/206843246-25137ec2-6c36-45ad-87e8-d15078409edf.jpg)
+![이용규_증명사진](https://user-images.githubusercontent.com/101245720/206843905-72d985df-9df5-480f-b2e2-25fbd8947e62.jpg)
+
 <p></p>
 <p></p>
 <h2 align="center"> Dongyangmirae 🏫 </h2>
