@@ -1,4 +1,4 @@
-<div align="center" >
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=300&section=header&text=g_gyu%20Github&fontSize=90&fontColor=ffffff" />
 </div>
 <div>
@@ -15,7 +15,7 @@
         <img width="40" alt="dmu2" src="https://user-images.githubusercontent.com/101245720/206854799-ad206da0-f9d3-4859-9efb-3f7c6f9654cd.png">
     </h4>
 </div>
-<br>
+<hr>
 <h3 align="center"> Dongyangmirae Study🏫 </h3>
 <div align="center">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=black">
