@@ -20,14 +20,12 @@ Here are some ideas to get you started:
 <p></p>
 <p></p>
 <h2> Things I code with </h2>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black">
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black)
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=ffffff">
-![R](https://img.shield.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=black)
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=ffffff">
-![Linux](https://img.shield.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=ffffff">
+</div>
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
