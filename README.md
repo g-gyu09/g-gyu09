@@ -2,11 +2,10 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello! ,  I'm dreaming of becoming a data analyst.%20render&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 <h2 align="center"> Hello! ,  I'm dreaming of becoming a data analyst. </h2>
 <hr>
-<h3 align="center"> my name is Yong gyu, LEE .. </h3>
-![lyg](https://user-images.githubusercontent.com/101245720/206844125-4aa75d71-f242-4847-9703-fd46123fcc56.png)
+<h3 align="center"> my name is Yong gyu, LEE .. </h3><img src="https://user-images.githubusercontent.com/101245720/206844125-4aa75d71-f242-4847-9703-fd46123fcc56.png">
 
 <p></p>
 <p></p>
