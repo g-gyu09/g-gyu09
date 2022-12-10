@@ -26,12 +26,8 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-#3776AB?style=for-the-badge&logo=python?logoColor=violet)
 ![MySQL](https://img.shields.io/badge/-MySQL-#4479A1?style=for-the-badge&logo=?MySQL?logoColor=white)
 <p>
-  <img src="https://img.shields.io/badge/MySQL-#4479A1?style=flat-square&logo=?MySQL&?logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
-<p>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-</p>
-![Rust](https://img.shields.io/badge/rust-black.svg?logo=rust&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-#4479A1.svg?logo=MySQL&logoColor=white&style=for-thebadge)
+
 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
