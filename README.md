@@ -11,6 +11,9 @@
     <h3 align="center"> My name is Yong gyu, LEE .. 
         <img width="30" src="https://user-images.githubusercontent.com/101245720/206844125-4aa75d71-f242-4847-9703-fd46123fcc56.png">
     </h3>
+    <h3 align="center"> My college Dongyang mirae Univ.
+        <img width="40" alt="dmu2" src="https://user-images.githubusercontent.com/101245720/206854799-ad206da0-f9d3-4859-9efb-3f7c6f9654cd.png">
+    </h3>
 </div>
 <br>
 <h2 align="center"> Dongyangmirae 🏫 </h2>
