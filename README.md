@@ -1,9 +1,9 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=g_gyu%20Github&fontSize=90" />
+<div align="center" >
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=g_gyu%20Github&fontSize=90" />
 </div>
 <div>
     <h2 align="center"> 👋Hello! ,  I'm dreaming of becoming a data analyst.
-    <img width="100" alt="스크린샷 2022-12-10 오후 6 29 41" src="https://user-images.githubusercontent.com/101245720/206843410-29ed8987-4b3c-4128-ad5f-f398bb19a18c.png">
+    <img width="70" alt="스크린샷 2022-12-10 오후 6 29 41" src="https://user-images.githubusercontent.com/101245720/206843410-29ed8987-4b3c-4128-ad5f-f398bb19a18c.png">
     </h2>
 </div>
 <br>
@@ -30,6 +30,7 @@
 </div>
 <br>
 <div align="center" style="clear:both">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-gyu&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api?username=g-gyu&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-gyu09&layout=compact&theme=merko">
+    <img src="https://github-readme-stats.vercel.app/api?username=g-gyu09&show_icons=true&theme=merko">
 </div>
+
