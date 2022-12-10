@@ -1,25 +1,12 @@
 ### Hi there 👋<img style="float:right" width="100" alt="스크린샷 2022-12-10 오후 6 29 41" src="https://user-images.githubusercontent.com/101245720/206843410-29ed8987-4b3c-4128-ad5f-f398bb19a18c.png">
 
-<!--
-**g-gyu09/g-gyu09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-Here are some ideas to get you started:
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center"> Hello! ,  I'm dreaming of becoming a data analyst. </h1>
+<h2 align="center"> Hello! ,  I'm dreaming of becoming a data analyst. </h2>
 <hr>
-<h3 align="center"> my name is Yong gyu, LEE .. </h3>ㅡ
-![](https://user-images.githubusercontent.com/101245720/206843905-72d985df-9df5-480f-b2e2-25fbd8947e62.jpg)
+<h3 align="center"> my name is Yong gyu, LEE .. </h3>![lyg](https://user-images.githubusercontent.com/101245720/206844036-33431eb2-961e-4a37-b026-95693701e40b.jpg)
+
 <p></p>
 <p></p>
 <p></p>
