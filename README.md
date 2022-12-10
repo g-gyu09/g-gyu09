@@ -31,3 +31,5 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
+![Rust](https://img.shields.io/badge/rust-black.svg?logo=rust&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-#4479A1.svg?logo=MySQL&logoColor=white&style=for-thebadge)
