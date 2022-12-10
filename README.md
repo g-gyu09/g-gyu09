@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 <h1 align="center"> Hello! ,  I'm dreaming of becoming a data analyst. </h1>
 <hr>
 <h3 align="center"> my name is Yong gyu, LEE .. </h3>ㅡ
-![이용규_증명사진](https://user-images.githubusercontent.com/101245720/206843905-72d985df-9df5-480f-b2e2-25fbd8947e62.jpg)
-
+![](https://user-images.githubusercontent.com/101245720/206843905-72d985df-9df5-480f-b2e2-25fbd8947e62.jpg)
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <h2 align="center"> Dongyangmirae 🏫 </h2>
