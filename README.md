@@ -1,11 +1,12 @@
-### Hi there 👋<img style="float:right" width="100" alt="스크린샷 2022-12-10 오후 6 29 41" src="https://user-images.githubusercontent.com/101245720/206843410-29ed8987-4b3c-4128-ad5f-f398bb19a18c.png">
+### Hi there 👋<img align="right" width="150" alt="스크린샷 2022-12-10 오후 6 29 41" src="https://user-images.githubusercontent.com/101245720/206843410-29ed8987-4b3c-4128-ad5f-f398bb19a18c.png">
 
 
 
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello! ,  I'm dreaming of becoming a data analyst.%20render&fontSize=90)
 <h2 align="center"> Hello! ,  I'm dreaming of becoming a data analyst. </h2>
 <hr>
-<h3 align="center"> my name is Yong gyu, LEE .. </h3>![lyg](https://user-images.githubusercontent.com/101245720/206844036-33431eb2-961e-4a37-b026-95693701e40b.jpg)
+<h3 align="center"> my name is Yong gyu, LEE .. </h3>
+![lyg](https://user-images.githubusercontent.com/101245720/206844125-4aa75d71-f242-4847-9703-fd46123fcc56.png)
 
 <p></p>
 <p></p>
