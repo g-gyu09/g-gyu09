@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=300&section=header&text=g_gyu%20Github&fontSize=90&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=250&section=header&text=g_gyu%20Github&fontSize=90&fontColor=ffffff" />
 </div>
 <div>
     <h2 align="center"> 👋Hello! ,  I'm dreaming of becoming a Data analyst.
